@@ -63,7 +63,7 @@ h2 {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 130px 20px;
+  padding: 80px 20px;
 }
 .hero p {
   font-family: var(--default-font-family);
@@ -144,7 +144,7 @@ nav a:hover ,nav li.active a {
 }
 
 footer{
-    margin: 60px 0;
+    margin: 80px 0;
 }
 
 
